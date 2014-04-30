@@ -1,1 +1,3 @@
-# 18章：ステートフルオブジェクト ディジタル回路のシミュレーション (Case study: Discrete event simulation)
+## 18章：ステートフルオブジェクト (Stateful Objects)
+
+ディジタル回路のシミュレーション (Case study: Discrete event simulation)
