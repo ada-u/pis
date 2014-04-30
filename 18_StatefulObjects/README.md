@@ -1,0 +1,1 @@
+# 18章：ステートフルオブジェクト ディジタル回路のシミュレーション (Case study: Discrete event simulation)

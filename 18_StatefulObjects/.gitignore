@@ -1,0 +1,8 @@
+.idea
+classes
+dist
+out
+SDK/*SDK
+*.bat
+.DS_Store
+*.iml
